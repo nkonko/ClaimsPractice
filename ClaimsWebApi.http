@@ -1,0 +1,6 @@
+@ClaimsWebApi_HostAddress = https://localhost:7093
+
+GET {{ClaimsWebApi_HostAddress}}/api/claims
+Accept: application/json
+
+###
